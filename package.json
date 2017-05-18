@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ui",
+  "version": "1.0.0",
+  "description": "React Native UI Components for iOS + Android",
+  "main": "react-native-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeoChen2016/react-native-ui.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native ui",
+    "react-native component"
+  ],
+  "author": "chenbin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JeoChen2016/react-native-ui/issues"
+  },
+  "homepage": "https://github.com/JeoChen2016/react-native-ui#readme"
+}
